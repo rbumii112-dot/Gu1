@@ -7,7 +7,7 @@ shareBtn.onclick = () => {
 };
 /* UNDANGAN */
 function joinWhatsAppGroup() {
-    window.open("https://whatsapp.com/channel/0029VbCCA6g1NCrOEI15qK07");
+    window.open("https://whatsapp.com/channel/0029Vb7CxEGKmCPQpUpl072I");
 }
 
 function openFacebookPage() {
@@ -34,6 +34,7 @@ overlay.addEventListener("click", () => {
     // Aksi setelah klik
     window.open("https://s.shopee.co.id/9UwZpo5ine", "_blank");
 });
+
 
 
 
